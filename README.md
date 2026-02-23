@@ -13,6 +13,7 @@ Below are the main projects I completed during the course, along with additional
 | Airbnc Back-End - Northcoders Project | Developed a responsive React JS frontend using a mobile-first design approach, enabling dynamic interaction with a backend to display Airbnb-like data including properties, users, and reviews. | JavaScript, HTML, CSS, React JS |
 | Guess My Number | Developed a browser-based number guessing game built with JavaScript, focusing on DOM manipulation, events, and CSS updates | JavaScript, DOM Manipualtion |
 | Guess My Number Refactored | Refactored a browser-based number guessing game built with JavaScript by applying the DRY principle to streamline code | JavaScript, DOM Manipualtion |
+| Modal Window | Developed a simple browser-based interface demonstrating how a modal window works and demonstarting DOM selection, DOM and CSS manipulation and events | JavaScript, DOM Manipualtion |
 
 ## 💻 Technologies
 
